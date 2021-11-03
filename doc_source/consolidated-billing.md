@@ -9,7 +9,7 @@ Consolidated billing has the following benefits:
 + **No extra fee** – Consolidated billing is offered at no additional cost\. 
 
 **Note**  
-The member account bills are for informational purpose only\. The management account might reallocate the additional volume discounts, Reserved Instance, or Savings Plans discounts that your account receives\.
+The member account bills are for informational purpose only\. Cost shown for the individual member accounts on the bill for management account may be different that the cost show in the bills generated inside each member account. The management account might reallocate the additional volume discounts, Reserved Instance, or Savings Plans discounts that the combination of account receives\.
 
 If you have access to the management account, you can see a combined view of the AWS charges that the member accounts incur\. You also can get a cost report for each member account\.
 
